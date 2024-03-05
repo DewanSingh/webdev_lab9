@@ -8,6 +8,7 @@ function init(){
     alert("Dewan Singh: ", alertbox.value);
   }
   
+  
   alertbutton.addEventListener('click', testText);
 }
 
